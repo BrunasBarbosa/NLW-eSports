@@ -12,7 +12,7 @@ Projeto construído no evento Next Level Week da Rocketseat.
 - CSS
 - Git e Github
 
-🔗 [Clique aqui para acessar](https://brunasbarbosa.github.io/NLW/)
+🔗 [Clique aqui para acessar](https://brunasbarbosa.github.io/NLW-eSports/)
 
 ## ​💌​ Contato
 
